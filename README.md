@@ -15,4 +15,4 @@ todos possam acessá-la. Futuramente, pretendo adicionar JS ao código, com anim
 </ul>
 
 <h2>Link do Projeto</h2>
-<a href="https://pkoliveirasx.github.io/espresso-club-landing-page/" target="_blank">Espresso Club</a>
+<a href="https://pkoliveirasx.github.io/espresso-club-landing-page/" target="blank">Espresso Club</a>
